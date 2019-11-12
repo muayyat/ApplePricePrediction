@@ -1,11 +1,14 @@
-# ApplePricePrediction
-Simple Price Prediction using ML.NET and C#
+# Apple Price Prediction
+Simple Price Prediction Machine Learning Console project.
 
 
-<b>Technology</b>
-.NET Core 2.2 
-ML.NET
-FastTree Regression Algorithm
+<b>Technology</b><br/>
+.NET Core 2.2 <br/>
+ML.NET<br/>
+C# <br/>
+FastTree Regression Algorithm<br/>
+
+
 
 
 
