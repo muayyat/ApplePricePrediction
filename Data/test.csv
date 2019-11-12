@@ -1,0 +1,344 @@
+﻿location,color,number,size,payment_type,price
+Florida,Red,12,Small,Card,24.051
+Florida,Red,70,Small,Cash,140
+Florida,Red,10,Small,Cash,20
+Florida,Red,12,Small,Cash,24
+Florida,Red,12,Small,Card,24.05
+Florida,Red,20,Small,Cash,40
+Florida,Red,42,Small,Card,84.05
+Florida,Red,10,Big,Card,40.05
+Florida,Yellow,90,Big,Card,54.05
+Florida,Yellow,0,Small,Card,0
+New York,Red,100,Small,Card,190.05
+New York,Red,20,Small,Card,38.05
+New York,Red,200,Small,Card,380.05
+Florida,Red,1,Big,Card,4.05
+Florida,Red,1,Small,Card,2.05
+Florida,Red,1,Big,Cash,4
+Florida,Red,3,Big,Cash,12
+Florida,Red,3,Big,Card,12.05
+Florida,Red,30,Big,Card,120.05
+Florida,Red,300,Big,Card,1200.05
+Florida,Red,5,Big,Card,20.05
+Florida,Red,6,Big,Card,24.05
+Florida,Red,7,Big,Card,28.05
+Florida,Red,7,Big,Cash,28
+Florida,Red,8,Big,Card,32.05
+Florida,Red,9,Big,Card,36.05
+Florida,Red,9,Big,Cash,36
+Florida,Red,10,Big,Cash,40
+Florida,Red,10,Big,Card,40.05
+Florida,Red,8,Big,Cash,32
+Florida,Red,0,Big,Card,0
+Florida,Red,0,Big,Cash,0
+Florida,Red,1,Small,Cash,2
+Florida,Red,2,Big,Cash,8
+Florida,Red,2,Small,Cash,4
+Florida,Red,2,Small,Card,4.05
+Florida,Red,2,Big,Card,8.05
+Florida,Yellow,1,Big,Card,6.05
+Florida,Yellow,2,Big,Card,12.05
+Florida,Yellow,2,Big,Cash,12
+Florida,Yellow,3,Big,Cash,18
+Florida,Yellow,3,Big,Card,18.05
+Florida,Yellow,4,Big,Card,24.05
+Florida,Yellow,4,Big,Cash,24
+Florida,Yellow,5,Big,Cash,30
+Florida,Yellow,5,Big,Card,30.05
+Florida,Yellow,6,Big,Card,36.05
+Florida,Yellow,6,Big,Cash,36
+Florida,Yellow,7,Big,Cash,42
+Florida,Yellow,7,Big,Card,42.05
+Florida,Yellow,8,Big,Card,48.05
+Florida,Yellow,8,Big,Cash,48
+Florida,Yellow,9,Big,Cash,54
+Florida,Yellow,9,Big,Card,54.05
+Florida,Yellow,10,Big,Card,60.05
+Florida,Yellow,10,Big,Cash,60
+Florida,Yellow,2,Big,Card,12.05
+Florida,Yellow,1,Small,Card,3.05
+Florida,Yellow,2,Small,Card,6.05
+Florida,Yellow,3,Small,Card,9.05
+Florida,Yellow,4,Small,Card,12.05
+Florida,Yellow,5,Small,Card,15.05
+Florida,Yellow,6,Small,Card,18.05
+Florida,Yellow,7,Small,Card,21.05
+Florida,Yellow,8,Small,Card,24.05
+Florida,Yellow,9,Small,Card,27.05
+Florida,Yellow,10,Small,Card,30.05
+Florida,Yellow,1,Small,Cash,3 
+Florida,Yellow,2,Small,Cash,6 
+Florida,Yellow,3,Small,Cash,9 
+Florida,Yellow,4,Small,Cash,12 
+Florida,Yellow,5,Small,Cash,15 
+Florida,Yellow,6,Small,Cash,18 
+Florida,Yellow,7,Small,Cash,21 
+Florida,Yellow,8,Small,Cash,24 
+Florida,Yellow,9,Small,Cash,27 
+Florida,Yellow,10,Small,Cash,30 
+Florida,Yellow,2,Small,Card,6.05
+Florida,Yellow,2,Small,Cash,6
+Florida,Yellow,1,Small,Cash,3
+Florida,Yellow,2,Big,Cash,12
+Florida,Yellow,3,Big,Cash,18
+Florida,Yellow,4,Big,Cash,24
+Florida,Yellow,5,Big,Cash,30
+Florida,Yellow,6,Big,Cash,36
+Florida,Yellow,7,Big,Cash,42
+Florida,Yellow,8,Big,Cash,48
+Florida,Yellow,9,Big,Cash,54
+Florida,Yellow,10,Big,Cash,60
+Florida,Yellow,1,Small,Cash,3
+Florida,Yellow,2,Big,Card,12.05
+Florida,Yellow,3,Big,Card,18.05
+Florida,Yellow,4,Big,Card,24.05
+Florida,Yellow,5,Big,Card,30.05
+Florida,Yellow,6,Big,Card,36.05
+Florida,Yellow,7,Big,Card,42.05
+Florida,Yellow,8,Big,Card,48.05
+Florida,Yellow,9,Big,Card,54.05
+Florida,Yellow,10,Big,Card,60.05
+Florida,Yellow,1,Big,Cash,6
+Florida,Yellow,1,Big,Card,6.05
+New York,Red,1,Big,Cash,3.8
+New York,Red,2,Big,Cash,7.6
+New York,Red,3,Big,Cash,11.4
+New York,Red,4,Big,Cash,15.2
+New York,Red,5,Big,Cash,19
+New York,Red,6,Big,Cash,22.8
+New York,Red,7,Big,Cash,26.6
+New York,Red,8,Big,Cash,30.4
+New York,Red,9,Big,Cash,34.2
+New York,Red,10,Big,Cash,38
+New York,Red,1,Big,Card,3.85
+New York,Red,2,Big,Card,7.65
+New York,Red,3,Big,Card,11.45
+New York,Red,4,Big,Card,15.25
+New York,Red,5,Big,Card,19.05
+New York,Red,6,Big,Card,22.85
+New York,Red,7,Big,Card,26.65
+New York,Red,8,Big,Card,30.45
+New York,Red,9,Big,Card,34.25
+New York,Red,10,Big,Card,38.05
+New York,Red,2,Big,Cash,7.6
+New York,Red,1,Small,Cash,1.9
+New York,Red,2,Small,Cash,3.8
+New York,Red,3,Small,Cash,5.7
+New York,Red,4,Small,Cash,7.6
+New York,Red,5,Small,Cash,9.5
+New York,Red,6,Small,Cash,11.4
+New York,Red,7,Small,Cash,13.3
+New York,Red,8,Small,Cash,15.2
+New York,Red,9,Small,Cash,17.1
+New York,Red,10,Small,Cash,19
+New York,Red,1,Small,Card,1.95
+New York,Red,2,Small,Card,3.85
+New York,Red,3,Small,Card,5.75
+New York,Red,4,Small,Card,7.65
+New York,Red,5,Small,Card,9.55
+New York,Red,6,Small,Card,11.45
+New York,Red,7,Small,Card,13.35
+New York,Red,8,Small,Card,15.25
+New York,Red,9,Small,Card,17.15
+New York,Red,10,Small,Card,19.05
+New York,Yellow,1,Big,Cash,5.7
+New York,Yellow,2,Big,Cash,11.4
+New York,Yellow,3,Big,Cash,17.1
+New York,Yellow,4,Big,Cash,22.8
+New York,Yellow,5,Big,Cash,28.5
+New York,Yellow,6,Big,Cash,34.2
+New York,Yellow,7,Big,Cash,38.9
+New York,Yellow,8,Big,Cash,45.6
+New York,Yellow,9,Big,Cash,51.3
+New York,Yellow,10,Big,Cash,57
+New York,Yellow,1,Big,Card,5.75
+New York,Yellow,2,Big,Card,11.45
+New York,Yellow,3,Big,Card,17.15
+New York,Yellow,4,Big,Card,22.85
+New York,Yellow,5,Big,Card,28.55
+New York,Yellow,6,Big,Card,34.25
+New York,Yellow,7,Big,Card,38.95
+New York,Yellow,8,Big,Card,45.65
+New York,Yellow,9,Big,Card,51.35
+New York,Yellow,10,Big,Card,57.05
+New York,Yellow,1,Small,Cash,2.85
+New York,Yellow,2,Small,Cash,5.7
+New York,Yellow,3,Small,Cash,8.55
+New York,Yellow,4,Small,Cash,11.4
+New York,Yellow,5,Small,Cash,14.25
+New York,Yellow,6,Small,Cash,17.1
+New York,Yellow,7,Small,Cash,19.95
+New York,Yellow,8,Small,Cash,22.8
+New York,Yellow,9,Small,Cash,25.65
+New York,Yellow,10,Small,Cash,28.5
+New York,Yellow,1,Small,Card,2.90
+New York,Yellow,2,Small,Card,5.75
+New York,Yellow,3,Small,Card,8.60
+New York,Yellow,4,Small,Card,11.45
+New York,Yellow,5,Small,Card,14.30
+New York,Yellow,6,Small,Card,17.15
+New York,Yellow,7,Small,Card,20.00
+New York,Yellow,8,Small,Card,22.85
+New York,Yellow,9,Small,Card,25.70
+New York,Yellow,10,Small,Card,28.55
+Jos,Red,1,Big,Cash,0.5
+Jos,Red,2,Big,Cash,1
+Jos,Red,3,Big,Cash,1.5
+Jos,Red,4,Big,Cash,2
+Jos,Red,5,Big,Cash,2.5
+Jos,Red,6,Big,Cash,3
+Jos,Red,7,Big,Cash,3.5
+Jos,Red,8,Big,Cash,4
+Jos,Red,9,Big,Cash,4.5
+Jos,Red,10,Big,Cash,5
+Jos,Red,1,Small,Cash,0.25
+Jos,Red,2,Small,Cash,0.5
+Jos,Red,3,Small,Cash,0.75
+Jos,Red,4,Small,Cash,1
+Jos,Red,5,Small,Cash,1.25
+Jos,Red,6,Small,Cash,1.5
+Jos,Red,7,Small,Cash,1.75
+Jos,Red,8,Small,Cash,2
+Jos,Red,9,Small,Cash,2.25
+Jos,Red,10,Small,Cash,2.5
+Jos,Yellow,1,Big,Cash,0.4
+Jos,Yellow,2,Big,Cash,.8
+Jos,Yellow,3,Big,Cash,1.2
+Jos,Yellow,4,Big,Cash,1.6
+Jos,Yellow,5,Big,Cash,2
+Jos,Yellow,6,Big,Cash,2.4
+Jos,Yellow,7,Big,Cash,2.8
+Jos,Yellow,8,Big,Cash,3.2
+Jos,Yellow,9,Big,Cash,3.6
+Jos,Yellow,10,Big,Cash,4
+Jos,Yellow,1,Small,Cash,0.2
+Jos,Yellow,2,Small,Cash,.4
+Jos,Yellow,3,Small,Cash,.6
+Jos,Yellow,4,Small,Cash,.8
+Jos,Yellow,5,Small,Cash,1
+Jos,Yellow,6,Small,Cash,1.2
+Jos,Yellow,7,Small,Cash,1.4
+Jos,Yellow,8,Small,Cash,1.6
+Jos,Yellow,9,Small,Cash,1.8
+Jos,Red,1,Big,Card,0.55
+Jos,Red,2,Big,Card,1.05
+Jos,Red,3,Big,Card,1.55
+Jos,Red,4,Big,Card,2.05
+Jos,Red,5,Big,Card,2.55
+Jos,Red,6,Big,Card,3.05
+Jos,Red,7,Big,Card,3.55
+Jos,Red,8,Big,Card,4.05
+Jos,Red,9,Big,Card,4.55
+Jos,Red,10,Big,Card,5.05
+Jos,Red,1,Small,Card,0.30
+Jos,Red,2,Small,Card,0.55
+Jos,Red,3,Small,Card,0.80
+Jos,Red,4,Small,Card,1.05
+Jos,Red,5,Small,Card,1.30
+Jos,Red,6,Small,Card,1.55
+Jos,Red,7,Small,Card,1.80
+Jos,Red,8,Small,Card,2.05
+Jos,Red,9,Small,Card,2.30
+Jos,Red,10,Small,Card,2.55
+Jos,Yellow,1,Big,Card,0.45
+Jos,Yellow,2,Big,Card,.85
+Jos,Yellow,3,Big,Card,1.25
+Jos,Yellow,4,Big,Card,1.65
+Jos,Yellow,5,Big,Card,2.05
+Jos,Yellow,6,Big,Card,2.45
+Jos,Yellow,7,Big,Card,2.85
+Jos,Yellow,8,Big,Card,3.25
+Jos,Yellow,9,Big,Card,3.65
+Jos,Yellow,10,Big,Card,4.05
+Jos,Yellow,1,Small,Card,0.25
+Jos,Yellow,2,Small,Card,0.4
+Jos,Yellow,3,Small,Card,0.65
+Jos,Yellow,4,Small,Card,0.85
+Jos,Yellow,5,Small,Card,1.05
+Jos,Yellow,6,Small,Card,1.25
+Jos,Yellow,7,Small,Card,1.45
+Jos,Yellow,8,Small,Card,1.65
+Jos,Yellow,9,Small,Card,1.85
+Jos,Yellow,10,Small,Card,2.05
+
+Jos,Red,10,Big,Cash,5
+Jos,Red,20,Big,Cash,10
+Jos,Red,30,Big,Cash,15
+Jos,Red,40,Big,Cash,20
+Jos,Red,50,Big,Cash,25
+Jos,Red,60,Big,Cash,30
+Jos,Red,70,Big,Cash,35
+Jos,Red,80,Big,Cash,40
+Jos,Red,90,Big,Cash,45
+Jos,Red,100,Big,Cash,50
+Jos,Red,10,Small,Cash,2.5
+Jos,Red,20,Small,Cash,5
+Jos,Red,30,Small,Cash,75
+Jos,Red,40,Small,Cash,10
+Jos,Red,50,Small,Cash,12.5
+Jos,Red,60,Small,Cash,15
+Jos,Red,70,Small,Cash,17.5
+Jos,Red,80,Small,Cash,20
+Jos,Red,90,Small,Cash,22.5
+Jos,Red,100,Small,Cash,25
+Jos,Yellow,10,Big,Cash,4
+Jos,Yellow,20,Big,Cash,8
+Jos,Yellow,30,Big,Cash,12
+Jos,Yellow,40,Big,Cash,1 6
+Jos,Yellow,50,Big,Cash,20
+Jos,Yellow,60,Big,Cash,24
+Jos,Yellow,70,Big,Cash,28
+Jos,Yellow,80,Big,Cash,32
+Jos,Yellow,90,Big,Cash,36
+Jos,Yellow,100,Big,Cash,40
+Jos,Yellow,10,Small,Cash,2
+Jos,Yellow,20,Small,Cash,4
+Jos,Yellow,30,Small,Cash,6
+Jos,Yellow,40,Small,Cash,8
+Jos,Yellow,50,Small,Cash,10
+Jos,Yellow,60,Small,Cash,12
+Jos,Yellow,70,Small,Cash,14
+Jos,Yellow,80,Small,Cash,16
+Jos,Yellow,90,Small,Cash,18
+Jos,Yellow,100,Small,Cash,20
+Jos,Red,10,Big,Card,5.05
+Jos,Red,20,Big,Card,10.05
+Jos,Red,30,Big,Card,15.05
+Jos,Red,40,Big,Card,20.05
+Jos,Red,50,Big,Card,25.05
+Jos,Red,60,Big,Card,30.05
+Jos,Red,70,Big,Card,35.05
+Jos,Red,80,Big,Card,40.05
+Jos,Red,90,Big,Card,45.05
+Jos,Red,100,Big,Card,50.05
+Jos,Red,10,Small,Card,2.55
+Jos,Red,20,Small,Card,5.05
+Jos,Red,30,Small,Card,7.55
+Jos,Red,40,Small,Card,10.05
+Jos,Red,50,Small,Card,12.55
+Jos,Red,60,Small,Card,15.05
+Jos,Red,70,Small,Card,17.55
+Jos,Red,80,Small,Card,20.05
+Jos,Red,90,Small,Card,22.55
+Jos,Red,100,Small,Card,25.05
+Jos,Yellow,10,Big,Card,4.05
+Jos,Yellow,20,Big,Card,8.05
+Jos,Yellow,30,Big,Card,12.05
+Jos,Yellow,40,Big,Card,16.05
+Jos,Yellow,50,Big,Card,20.05
+Jos,Yellow,60,Big,Card,24.05
+Jos,Yellow,70,Big,Card,28.05
+Jos,Yellow,80,Big,Card,32.05
+Jos,Yellow,90,Big,Card,36.05
+Jos,Yellow,100,Big,Card,40.05
+Jos,Yellow,10,Small,Card,2.05
+Jos,Yellow,2,Small,Card,4.05
+Jos,Yellow,3,Small,Card,6.05
+Jos,Yellow,4,Small,Card,8.05
+Jos,Yellow,5,Small,Card,10.05
+Jos,Yellow,6,Small,Card,12.05
+Jos,Yellow,7,Small,Card,14.05
+Jos,Yellow,8,Small,Card,16.05
+Jos,Yellow,9,Small,Card,18.05
+Jos,Yellow,10,Small,Card,20.05
+
